@@ -5,4 +5,8 @@ InterviewPrep - это инновационный сервис, который �
 Наш фронтенд написан на React.
 Наш бэкенд построен на express.js с использованием OpenAI API модель GPT-4o-mini.
 
-[Ссылка на сайт](https://example.com)
+[Ссылка на сайт](https://interview-gold-eta.vercel.app/)
+
+[Фронтенд](https://github.com/InteviewPrep-LevelUp/frontend)
+[Бекенд](https://github.com/InteviewPrep-LevelUp/Ai-Interview-Assistant-Backend)
+

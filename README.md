@@ -8,7 +8,7 @@ Level Up - это инновационный сервис, который пом
 
 Наш бэкенд построен на express.js с использованием OpenAI API модель GPT-4o-mini.
 
-[Ссылка на сайт](https://interview-gold-eta.vercel.app/)
+[Ссылка на сайт](https://interview-five-drab.vercel.app/)
 
 [Фронтенд](https://github.com/InteviewPrep-LevelUp/frontend)
 [Бекенд](https://github.com/InteviewPrep-LevelUp/Ai-Interview-Assistant-Backend)
